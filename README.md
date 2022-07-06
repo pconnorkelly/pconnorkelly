@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pconnorkelly
 - 👀 I’m interested in ... housing policy and economic development
 - 🌱 I’m currently learning ... GIS
-- 💞️ I’m looking to collaborate on ... quantitative and quailtative public policy researhc
+- 💞️ I’m looking to collaborate on ... quantitative and quailtative public policy research
 - 📫 How to reach me ... pconnorkelly@gmail.com
 
 <!---
